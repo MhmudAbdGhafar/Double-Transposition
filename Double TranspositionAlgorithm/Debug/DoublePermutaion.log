@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Laptop Market\source\repos\Double TranspositionAlgorithm\Source.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Laptop Market\source\repos\Double TranspositionAlgorithm\Source.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Laptop Market\source\repos\Double TranspositionAlgorithm\Source.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Laptop Market\source\repos\Double TranspositionAlgorithm\Source.cpp(40,24): warning C4018: '<': signed/unsigned mismatch
+  DoublePermutaion.vcxproj -> C:\Users\Laptop Market\source\repos\Double TranspositionAlgorithm\Debug\DoublePermutaion.exe
